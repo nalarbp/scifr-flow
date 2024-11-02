@@ -1,0 +1,10 @@
+{
+  "name": "create-scifr",
+  "version": "0.1.0",
+  "description": "A boilerplate to bootstrap a scifr project",
+  "author": "Budi Permana",
+  "license": "MIT",
+  "bin": {
+    "create-scifr": "./cli.js"
+  }
+}
